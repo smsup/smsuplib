@@ -18,6 +18,13 @@ npm install smsuplib --save
 Uso
 ---
 
+Inicializar la libreria:
+
+``` javascript
+var smsuplib = require('smsuplib');
+var sms = smsuplib('TU_ID_USUARIO', 'TU_CLAVE_SECRETA');
+```
+
 Envio de un sms:
 
 ``` javascript
