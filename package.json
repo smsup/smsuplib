@@ -1,0 +1,15 @@
+{
+  "name": "smsuplib",
+  "version": "1.0.0",
+  "description": "Libreria que facilita la integracion de la api de smsup.es para el envio de sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Smsup",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "request": "^2.85.0"
+  }
+}
