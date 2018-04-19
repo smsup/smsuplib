@@ -1,5 +1,5 @@
 module.exports = function(ID, SECRET) {
-    var URL = 'http://smsupp.local';
+    var URL = 'https://www.smsup.es';
 
     var PATH_SMS = '/api/sms/';
     var PATH_CREDITS = '/api/creditos/';

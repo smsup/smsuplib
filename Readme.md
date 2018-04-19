@@ -7,6 +7,14 @@ Documentacion de la API disponible en:
 
 http://www.smsup.es/docs/api/
 
+Instalacion
+-----------
+
+```bash
+npm install smsuplib --save
+```
+
+
 Uso
 ---
 
